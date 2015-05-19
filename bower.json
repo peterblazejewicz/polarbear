@@ -1,5 +1,5 @@
 {
-  "name": "warmerworld",
+  "name": "polarbear",
   "version": "0.0.0",
   "homepage": "https://github.com/peterblazejewicz/warmerworld",
   "authors": [
@@ -14,7 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.4",
-    "vide": "~0.3.4"
+    "bootstrap": "~3.3.4"
   }
 }
