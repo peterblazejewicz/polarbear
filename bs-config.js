@@ -19,9 +19,9 @@ module.exports = {
             "port": 8080
         }
     },
-    "files": false,
+    "files": 'dist/css/main.css',
     "watchOptions": {},
-    "server": false,
+    "server": true,
     "proxy": false,
     "port": 3000,
     "middleware": false,
